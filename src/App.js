@@ -1,7 +1,9 @@
+import Sitebar from "./components/sitebar";
 
 function App() {
   return (
-    <div>
+    <div className="w-24">
+      <Sitebar/>
       salom
     </div>
   );
